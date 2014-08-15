@@ -1,0 +1,10 @@
+---
+layout: post
+title:  O Futuro
+date:   2012-12-27 22:25:37
+categories: Palestras
+tags: [apresentação, futuro]
+permalink: /2012/12/o-futuro
+---
+
+[slideshare id=15778590&amp;doc=ofuturo-121227181010-phpapp02]

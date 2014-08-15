@@ -1,0 +1,12 @@
+# Site settings
+title: Borba on Software
+email: lborba@gmail.com
+description: "Eu sou bacharel em Ciência da Computação pela Universidade Federal de Pernambuco e trabalho como Engenheiro de Sistemas Sênior do CESAR desde de 2001. Desenvolvo software desde 1991, e já trabalhei com várias plataformas e linguagens. Me considero especialista em metodologias ágeis, tendo implantado essas técnicas em algumas empresas do Porto Digital. Além das questões relacionadas com desenvolvimento, também possuo experiência na aplicação de ferramentas para modelagem de negócios em diversos clientes do CESAR, como: Fiat, Sonae Sierra Brasil, Livraria e Editora Saraiva e Elcoma."
+baseurl: ""
+url: "http://borba.blog.br"
+twitter_username: luizborba
+github_username:  borba
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title
