@@ -7,3 +7,25 @@
 	float: left;
 	padding-right: 10px;
 }
+
+.image_on_right {
+	float: right;
+	padding-left: 10px;
+}
+
+.image_on_center {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.no-link-appearance {
+	color: #b5e853;
+	text-decoration: none;
+}

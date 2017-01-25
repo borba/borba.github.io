@@ -16,12 +16,12 @@
 title: Borba on Software
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sou bacharel em Ciência da Computação pela UFPE e trabalho como Egenheiro de Software desde 1991.
-  Possuo experiência em diversas plataformas e linguagens. Atualmente trabalho no Nubank.
+  Fiz Ciência da Computação pela UFPE e trabalho como Engenheiro de Software desde 1991.
+  Possuo experiência em diversas linguagens. Trabalho no Nubank.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: luizborba
+github_username:  borba
 
 # Build settings
 markdown: kramdown

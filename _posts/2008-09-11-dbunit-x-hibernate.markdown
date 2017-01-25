@@ -2,8 +2,9 @@
 layout: post
 title:  "DbUnit x Hibernate"
 date:   2008-09-11 15:47:37
-categories: programação
+categories: Programação
 tags: [dbunit, ejb, hibernate, junit, princípio dry, tdd, yaml]
+permalink: 2008/09/dbunit-x-hibernate
 ---
 
 Aqui na empresa, temos clientes que apenas mandam executar um projeto segundo a arquitetura definida por eles. Algumas vezes é frustante trabalhar neste tipo de projeto, afinal, nem sempre conseguimos seguir nossas convicções e utilizar plenamente nossos conhecimentos e experiência na definição da melhor solução para o problema. Em um desses projetos, fui convocado para auxiliar a equipe que estava consumindo muito tempo na implementação dos testes.

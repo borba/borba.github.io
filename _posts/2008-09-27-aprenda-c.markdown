@@ -7,5 +7,16 @@ tags: [assembly, basic, c, computador, tk85, z80]
 permalink: /2008/09/aprenda-c
 ---
 
-![tk85](http://borba.blog.br/wordpress/wp-content/uploads/2008/09/tk85.jpg "tk85")
-Meu primeiro computador foi um [TK85](http://www.mci.org.br/micro/microdigital/tk85.html ""). Nele eu aprendi o [BASIC](http://en.wikipedia.org/wiki/BASIC_programming_language "") e comecei a programar. Logo eu percebi que o BASIC não era suficiente para fazer tudo o que queria e comecei a estudar [Assembly](http://en.wikipedia.org/wiki/Assembly_language "") [Z80](http://en.wikipedia.org/wiki/Zilog_Z80 ""). Nessa época não tinha internet, a gente aprendia muitas coisas nos livros e revistas, mas na maioria do tempo era por tentativa e erro. Todas essas dificuldades e limitações ajudaram a formar uma geração que conhece muito bem como um computador funciona e sabe muito bem como programar. Hoje em dia, o cara que quer começar na área já começa aprendendo uma linguagem como [Java](http://java.sun.com/ ""), [PHP](http://www.php.net/ ""), [C#](http://msdn.microsoft.com/en-us/vcsharp/aa336809.aspx ""), [Ruby](http://www.ruby-lang.org/ ""), ou sei lá o que e se tornam engenheiros medíocres... Falta uma base sólida! A maioria dos engenheiros hoje em dia não têem a mínima idéia de como as linguagens e os computadores funcionam. Se você está começando, aprenda [C](http://en.wikipedia.org/wiki/C_%28programming_language%29 "") (não precisa ser assembly). Aprendendo e usando C, você vai construir a base de conhecimentos necessária para ser tornar um bom engenheiro. Depois de ter essa base, você vai aprender qualquer linguagem com muita facilidade, se tornando um excelente programador.
+![tk85](/assets/images/2008/c.png){: .image_on_center}
+
+Meu primeiro computador foi um [TK85][mci-tk85]. Nele eu aprendi o [BASIC][wiki-basic] e comecei a programar. Logo eu percebi que o BASIC não era suficiente para fazer tudo o que queria e comecei a estudar [Assembly][wiki-asm] [Z80][wiki-z80]. Nessa época não tinha internet, a gente aprendia muitas coisas nos livros e revistas, mas na maioria do tempo era por tentativa e erro. Todas essas dificuldades e limitações ajudaram a formar uma geração que conhece muito bem como um computador funciona e sabe muito bem como programar. Hoje em dia, o cara que quer começar na área já começa aprendendo uma linguagem como [Java][java], [PHP][php], [C#][csharp], [Ruby][ruby], ou sei lá o que e se tornam engenheiros medíocres... Falta uma base sólida! A maioria dos engenheiros hoje em dia não têem a mínima idéia de como as linguagens e os computadores funcionam. Se você está começando, aprenda [C][wiki-c] (não precisa ser assembly). Aprendendo e usando C, você vai construir a base de conhecimentos necessária para ser tornar um bom engenheiro. Depois de ter essa base, você vai aprender qualquer linguagem com muita facilidade, se tornando um excelente programador.
+
+[mci-tk85]: http://www.mci.org.br/micro/microdigital/tk85.html
+[wiki-basic]: http://en.wikipedia.org/wiki/BASIC_programming_language
+[wiki-asm]: http://en.wikipedia.org/wiki/Assembly_language
+[wiki-z80]: http://en.wikipedia.org/wiki/Zilog_Z80
+[java]: http://java.sun.com/
+[php]: http://www.php.net/
+[csharp]: https://msdn.microsoft.com/pt-BR/library/kx37x362.aspx
+[ruby]: http://www.ruby-lang.org/
+[wiki-c]: http://en.wikipedia.org/wiki/C_%28programming_language%29
