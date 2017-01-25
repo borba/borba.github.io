@@ -13,12 +13,12 @@ Estou estudando [Scala](http://www.scala-lang.org "Scala"), e a primeira coisa q
 
 E agora? Vou ter que esperar meses (ou anos) para que alguém desenvolva uma IDE boa o suficiente? E quando não existia ferramentas com esse nível de recursos? Como a gente se virava?
 
-[![[]](http://borba.blog.br/wordpress/wp-content/uploads/2010/05/tc201compilefp5.png "Turbo C")](http://borba.blog.br/wordpress/wp-content/uploads/2010/05/tc201compilefp5.png "")
+![turbo c](/assets/images/2010/tc201.png){: .image_on_center}
 
 Quando eu comecei a trabalhar, usava Turbo C 2.0. Alguém se lembra? Não  tinha *syntax highlight*, abria apenas um arquivo por vez e *code assist* nem pensar. Tinha *copy and paste* e lamba os beiços. E que saber? Era uma  ferramenta muito boa. Era boa e produtiva pela simples razão que **EU  SABIA O QUE ESTAVA FAZENDO**.
 
 As ferramentas de hoje em dia são tão sofisticadas, tem tantos recursos e facilidades, que criaram uma geração de programadores que são absolutamente dependentes delas. Programadores que não são capazes de saber que método de uma determinada classe ele precisa chamar. Se não tiver um *code assist* eles simplesmente não sabem o que fazer (muitos não sabem nem com o uso do *code assist*).
 
-[![[]](http://borba.blog.br/wordpress/wp-content/uploads/2010/05/codeassist.png "code assist")](http://borba.blog.br/wordpress/wp-content/uploads/2010/05/codeassist.png "")
+![code assist](/assets/images/2010/codeassist.png){: .image_on_center}
 
-Precisamos abandonar um pouco nossas IDEs. Precisamos (re)aprender as linguagens e frameworks sem o uso dessas facilidades. Só quando finalmente estivermos seguros sobre o nosso conhecimento é que estamos autorizados a usar as IDEs. *Bye bye* IDEA, seja bem vindo o Notepad. Agora finalmente vou **APRENDER **Scala. Depois de um momento de negação estou finalmente me curando da IDE-dependência. Samuel, você estava **CERTO**!
+Precisamos abandonar um pouco nossas IDEs. Precisamos (re)aprender as linguagens e frameworks sem o uso dessas facilidades. Só quando finalmente estivermos seguros sobre o nosso conhecimento é que estamos autorizados a usar as IDEs. *Bye bye* IDEA, seja bem vindo o Notepad. Agora finalmente vou **APRENDER** Scala. Depois de um momento de negação estou finalmente me curando da IDE-dependência. Samuel, você estava **CERTO**!

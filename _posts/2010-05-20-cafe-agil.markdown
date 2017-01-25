@@ -7,10 +7,18 @@ tags: [agilidade na prática, apresentação, café ágil, tdd, xp]
 permalink: /2010/05/cafe-agil
 ---
 
-Sábado passado (dia 15/05/2010) participei do evento [Café Ágil](http://www.thoughtworks.com/cafe-agil-em-recife "") promovido pela ThoughtWorks Brasil no Centro de Informática da UFPE. Neste evento eu apresentei o trabalho "TDD Direto das Trincheiras", mesmo trabalho que já havia apresentado no evento [Agilidade na Prática](http://agilidadenapratica.wordpress.com/ "") em Novembro de 2009. Naquela oportunidade, deixei pra fazer a apresentação em cima da hora e ficou bem nojentinha (veja [aqui](http://borba.blog.br/2010/03/tdd-direto-das-trincheiras/ "")), desta vez pedi ajuda a Jinmi Lee, que deu uma reformulada no ppt. Vejam a diferença:
+Sábado passado (dia 15/05/2010) participei do evento **Café Ágil** promovido pela ThoughtWorks Brasil no Centro de Informática da UFPE. Neste evento eu apresentei o trabalho "TDD Direto das Trincheiras", mesmo trabalho que já havia apresentado no evento [Agilidade na Prática][agilidade]{:target="_blank"} em Novembro de 2009. Naquela oportunidade, deixei pra fazer a apresentação em cima da hora e ficou bem [nojentinha][blog-tdd-trincheiras]{:target="_blank"}, desta vez pedi ajuda a Jinmi Lee, que deu uma reformulada no ppt. Vejam a diferença:
 
-[slideshare id=4177530&amp;doc=tdddiretodastrincheirasv2-100520130711-phpapp01]
+{% raw %}
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kiTrWIZrNbCvHw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lborba/tdd-direto-das-trincheiras-versao-2" title="TDD Direto das Trincheiras versao 2" target="_blank">TDD Direto das Trincheiras versao 2</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/lborba">Luiz Borba</a></strong> </div>
+</center>
+{% endraw %}
 
 Para uma comunicação eficiente é necessário que tanto o contéudo quanto a apresentação sejam bem feitos. Apenas com a união desses dois fatores será possível passar a mensagem de forma eficaz.
 
-Voltando ao evento, as apresentações de [Paulo Caroli](http://agiletips.blogspot.com/2010/05/cafe-agil-em-recife.html "") e Jim Webber foram ótimas e a participação do público foi bem legal. Bastante interessante também a mesa redonda (a mesa era retangular mesmo), que além da minha presença e a do Paulo, ainda contou com a participação de Luciano Felix (Provider Sistemas), Cristine Gusmão (UFPE) e Alexandre de Vasconcelos (UFPE). Parabéns a todos pela organização e espero que tenha mais eventos desse nível por aqui.
+Voltando ao evento, as apresentações de [Paulo Caroli][paulo-caroli]{:target="_blank"} e Jim Webber foram ótimas e a participação do público foi bem legal. Bastante interessante também a mesa redonda (a mesa era retangular mesmo), que além da minha presença e a do Paulo, ainda contou com a participação de Luciano Felix (Provider Sistemas), Cristine Gusmão (UFPE) e Alexandre de Vasconcelos (UFPE). Parabéns a todos pela organização e espero que tenha mais eventos desse nível por aqui.
+
+[agilidade]: http://agilidadenapratica.wordpress.com/
+[blog-tdd-trincheiras]: /2010/03/tdd-direto-das-trincheiras
+[paulo-caroli]: http://www.caroli.org/cafe-agil-em-recife/
