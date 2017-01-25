@@ -11,10 +11,12 @@ Trabalhei esses últimos dias fazendo uma otimização de uma rotina escrita em 
 
 Fiz a minha parte:
 
-[cci_csharp]sessao.Delete("FROM Ocorrencia WHERE ...");[/cci_csharp]
+{% highlight csharp %}
+sessao.Delete("FROM Ocorrencia WHERE ...");
+{% endhighlight %}
 
 Não é que o maldito NHibernate ao invés de simplesmente criar a query de remoção, executa uma query de consulta, monta todos as entidades (no caso, Ocorrencia) e depois dá delete de um por um?
 
 Por que diabos alguém em seu juízo perfeito escreveria um método tão estúpido quanto esse? Se eu já quero apagar esses objetos porque carrega-los na memória, consumindo o meu já escasso tempo de processamento?
 
-Fica a lição: NÃO PROGRAME POR COINCIDÊNCIA. Não é apenas porque um método tem a assinatura perfeita que ele vai ser a solução do seu problema. LEIA A DOCUMENTAÇÃO. Certifique-se que está fazendo a coisa certa, ou caso contrário você vai se dar muito mal.
+Fica a lição: **NÃO PROGRAME POR COINCIDÊNCIA**. Não é apenas porque um método tem a assinatura perfeita que ele vai ser a solução do seu problema. **LEIA A DOCUMENTAÇÃO**. Certifique-se que está fazendo a coisa certa, ou caso contrário você vai se dar muito mal.

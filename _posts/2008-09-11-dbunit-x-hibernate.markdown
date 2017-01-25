@@ -11,7 +11,7 @@ Aqui na empresa, temos clientes que apenas mandam executar um projeto segundo a 
 
 ### O Cenário:
 
-O sistema utiliza [EJB][ejb] 2 e [Hibernate][hibernate] 2. O cliente exige implementação de testes dos métodos da [fachada][fachada] utilizando [JUnit][junit] e [DBUnit][dbunit].
+O sistema utiliza [EJB][ejb]{:target="_blank"} 2 e [Hibernate][hibernate]{:target="_blank"} 2. O cliente exige implementação de testes dos métodos da [fachada][fachada]{:target="_blank"} utilizando [JUnit][junit]{:target="_blank"} e [DBUnit][dbunit]{:target="_blank"}.
 
 ### Problemas:
 
@@ -47,7 +47,7 @@ Além da dificuldade em produzir a massa de dados, existe um problema muito grav
 assertEquals(employee.getFirstName(), "Jose");
 {% endhighlight %}
 
-Que é uma péssima idéia, pois viola o [princípio DRY][dry] (Don’t Repeat Yourself). Outra saída é obter os valores do xml através da API do DBUnit, que vai dar uma trabalheira danada, ainda mais se você quiser montar o objeto para fazer comparações deste tipo:
+Que é uma péssima idéia, pois viola o [princípio DRY][dry]{:target="_blank"} (Don’t Repeat Yourself). Outra saída é obter os valores do xml através da API do DBUnit, que vai dar uma trabalheira danada, ainda mais se você quiser montar o objeto para fazer comparações deste tipo:
 
 {% highlight java %}
 assertEquals(employeeActual, employeeExpected);
@@ -57,7 +57,7 @@ Já imaginou? Vai ter que construir outro hibernate só para pegar cada valor da
 
 ### Como Resolver?
 
-O grande problema dessa abordagem é o fato do DBUnit entender apenas de tabelas e colunas. E se existisse um HibernateUnit? No hipotético HibernateUnit eu poderia especificar meus dados na forma de objetos. Além disso, poderia utilizar um formato mais legível e que pudesse ser transformado diretamente para objetos dentro do seu código. Esse formato pode ser o [YAML][yaml]. Veja como ficaria:
+O grande problema dessa abordagem é o fato do DBUnit entender apenas de tabelas e colunas. E se existisse um HibernateUnit? No hipotético HibernateUnit eu poderia especificar meus dados na forma de objetos. Além disso, poderia utilizar um formato mais legível e que pudesse ser transformado diretamente para objetos dentro do seu código. Esse formato pode ser o [YAML][yaml]{:target="_blank"}. Veja como ficaria:
 
 {% highlight yaml %}
 departaments:
@@ -89,7 +89,7 @@ Inclui um relacionamento para employee só para ficar um pouco mais rico. A vant
 
 Acho que uma solução deste tipo poderia trazer muitos benefícios para o nosso problema. Estou fazendo uma pesquisa e se não existir nada semelhante, devo implementar essa solução como um projeto open source.
 
-Pena que nosso cliente EXIGE que usemos o DBUnit.
+Pena que nosso cliente **EXIGE** que usemos o DBUnit.
 
 [ejb]: http://java.sun.com/products/ejb
 [hibernate]: http://www.hibernate.org
