@@ -15,4 +15,8 @@ De qualquer forma, estou querendo chamar a atenção para as ferramentas que est
 
 Para curtir um pouco a nostalgia, aqui está a apresentação de 2004.
 
-[slideshare id=1296378&amp;doc=metricasemfabricasdesoftwareversaopublica-090415184352-phpapp02]
+{% raw %}
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bjWSccvdWlz38O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%; text-align: center;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lborba/mtricas-em-fabricas-de-software" title="Métricas Em Fabricas De Software" target="_blank">Métricas Em Fabricas De Software</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/lborba">Luiz Borba</a></strong> </div>
+</center>
+{% endraw %}
