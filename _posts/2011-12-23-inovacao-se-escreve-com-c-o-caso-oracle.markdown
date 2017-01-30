@@ -11,7 +11,7 @@ Nunca tive grande simpatia pela Oracle, mesmo assim nunca deixei de reconhecer a
 
 Apesar de gozar da liderança do mercado há décadas com sua solução de banco de dados, como qualquer grande empresa, a Oracle não pode se contentar em ser cantor de uma música só. Através de dezenas de aquisições a empresa entrou em diversos outros setores, mas sempre com foco *Entreprise*. Com a aquisição da Sun em 2009, a Oracle entrou de cabeça no mercado de Hardware.
 
-[![[]](http://borba.blog.br/wordpress/wp-content/uploads/2011/12/image-oracle-i12.jpg "oracle e sun")](http://borba.blog.br/wordpress/wp-content/uploads/2011/12/image-oracle-i12.jpg "")
+![oracle sun](/assets/images/2011/oracle-sun.jpg){: .image_on_center}
 
 As duras penas a Oracle está descobrindo que as margens em hardware são bem menores que no mercado de software, além disso a tendência de Cloud e SAAS (Software as a Service) está fazendo que o mercado de Data Centers (seus principais clientes) fique cada vez mais encolhido e centralizado. Esses fatores evidentemente estão afetando o bottom-line da Oracle.
 
