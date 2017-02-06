@@ -7,7 +7,7 @@ tags: [apple, ios, mac os x, microsoft, windows, windows 8]
 permalink: /2012/03/microsoft-da-all-in-com-o-windows-8
 ---
 
-O Windows 8 Consumer Preview foi lançado esta semana cumprindo mais uma etapa rumo a liberação da versão final. Como já havia falado [aqui](http://borba.blog.br/2012/01/windows-8-a-nova-corrida-do-ouro-2/ "Windows 8: A nova corrida do ouro"), considero o Windows 8 uma oportunidade única para desenvolvedores, porém após analisar mais de perto, começo a perceber o outro lado da moeda.
+O Windows 8 Consumer Preview foi lançado esta semana cumprindo mais uma etapa rumo a liberação da versão final. Como já havia [falado][blog-windows8]{:target="_blank"}, considero o Windows 8 uma oportunidade única para desenvolvedores, porém após analisar mais de perto, começo a perceber o outro lado da moeda.
 
 Existe uma diferença fundamental na estratégia da Microsoft em relação a Apple, que demonstra a ousadia da empresa de Bill Gates. A Apple decidiu usar o IOS (que foi criado para o iPhone) no iPad, mantendo o MAC OS X apenas em seus computadores. Já a Microsoft optou por criar o Windows 8 para tablets e desktops, deixando o Windows Phone 7 apenas para smartphones.
 
@@ -15,8 +15,11 @@ Esta decisão implica em uma mudança radical da experiência de uso do Windows 
 
 Será que a nova interface para computadores pessoais vai ser aceita?
 
-[![[]](http://borba.blog.br/wordpress/wp-content/uploads/2012/03/all-in-Feb-14th1.jpg "all in")](http://borba.blog.br/wordpress/wp-content/uploads/2012/03/all-in-Feb-14th1.jpg "")
+![all in](/assets/images/2012/all-in.jpg){: .image_on_center}
 
-Como disse [aqui](http://borba.blog.br/2012/01/um-produto-pra-chamar-de-seu/ "Um produto pra chamar de seu"), os tempos agora são outros e poder está na mão dos usuários. Não estou dizendo que o Windows 8 vai ser um sucesso ou um fracasso, mas é uma aposta muito arriscada, um verdadeiro "all-in" (expressão do poker usada quando um jogador aposta todas as suas fichas) da Microsoft pela disputa no mercado móvel. Se os usuários rejeitarem o Windows 8 como fizeram com o Windows Vista, o Windows 7 vai continuar tomando conta do mercado desktop, mas a Microsoft não conseguirá mais lutar no mercado móvel porque terá perdido pelo menos mais uns 3 anos.
+Como já [disse][blog-produto-seu]{:target="_blank"}, os tempos agora são outros e poder está na mão dos usuários. Não estou dizendo que o Windows 8 vai ser um sucesso ou um fracasso, mas é uma aposta muito arriscada, um verdadeiro "all-in" (expressão do poker usada quando um jogador aposta todas as suas fichas) da Microsoft pela disputa no mercado móvel. Se os usuários rejeitarem o Windows 8 como fizeram com o Windows Vista, o Windows 7 vai continuar tomando conta do mercado desktop, mas a Microsoft não conseguirá mais lutar no mercado móvel porque terá perdido pelo menos mais uns 3 anos.
 
 De qualquer forma, agora vamos deixar que o povão decida.
+
+[blog-windows8]: /2012/01/windows-8-a-nova-corrida-do-ouro-2
+[blog-produto-seu]: /2012/01/um-produto-pra-chamar-de-seu
