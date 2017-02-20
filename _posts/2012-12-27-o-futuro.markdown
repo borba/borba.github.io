@@ -7,4 +7,8 @@ tags: [apresentação, futuro]
 permalink: /2012/12/o-futuro
 ---
 
-[slideshare id=15778590&amp;doc=ofuturo-121227181010-phpapp02]
+{% raw %}
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bTw0mzftgdiNwS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lborba/o-futuro" title="O futuro" target="_blank">O futuro</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/lborba">Luiz Borba</a></strong> </div>
+</center>
+{% endraw %}
