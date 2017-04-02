@@ -9,16 +9,18 @@ permalink: /2013/11/tanta-coisa-me-interessa-mas-nada-tanto-assim
 
 Em 1986 eu já tinha o meu TK-85 e já programava em Basic quando resolvi fazer um curso de Basic Avançado no Souza's Computer Center. Este curso me atraiu inicialmente pela oportunidade de programar um CP-500.
 
-[![cp-500](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/cp-500-745x1024.jpg "")](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/cp-500.jpg "")
+![cp-500](/assets/images/2013/cp-500.jpg){: .image_on_center}
 
 O CP-500, era um computador realmente profissional, usado por empresas de verdade, resolvendo problemas de verdade. Isso me atraia muito, acho que instintivamente já imaginava em trabalhar profissionalmente com programação. Não me decepcionei com o curso, que era todo baseado em problemas complexos do mundo real, como por exemplo:
 
 Entrada:
+
 * Nome do Aluno
 * Nota da Primeira Prova
 * Nota da Segunda Prova
 
 Saída:
+
 * Nome do Aluno
 * Média das Duas Provas
 * Se média &gt;= 7 imprimir aprovado, imprimir reprovado no caso contrário
@@ -31,7 +33,7 @@ Por falar em tesão, eu também estava passando por uma fase interessante que to
 
 Não era incomum eu burlar a proibição de compra dessa revista (era proibida para menores de 18 anos, nunca entendi porque) e comprar um exemplar na banca da esquina de casa. Curiosamente o banheiro era o lugar preferido para as minhas leituras, as entrevistas sempre exigiram um grau de concentração que não conseguia em outro ambiente da casa. Em 1986 teve uma edição marcante, uma entrevista com Vargas Llosa, acho que a capa era Luiza Brunet (nem prestei atenção a capa).
 
-![Playboy com Luiza Brunet](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/playboy-luizabrunet.jpg "")
+![Playboy com Luiza Brunet](/assets/images/2013/playboy-luiza-brunet.jpg){: .image_on_center}
 
 Pois bem, voltando ao assunto, um belo dia chegaram umas visitas lá em casa. Conversa vai, conversa vem, meu pai todo orgulhoso fazia a maior propaganda dos meus feitos na computação. Aproveitei a ocasião para me "amostrar", fui no quarto pegar uma pasta onde eu guardava as apostilas e a impressão dos meus códigos em Basic. "Agora vou deixar esse povo babando". Chegando na sala, enchi tanto o peito que parecia até um cururu tetei. "Agora eu vou mostrar pra vocês o que me interessa hoje em dia". Ao abrir a pasta, para minha surpresa o que apareceu não foram códigos Basic e sim a Luiza Brunet bem a vontade com uma tripa amarela cobrindo apenas o essencial.
 

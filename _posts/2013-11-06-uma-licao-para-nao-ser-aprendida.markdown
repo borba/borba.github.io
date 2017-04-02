@@ -10,15 +10,16 @@ permalink: /2013/11/uma-licao-para-nao-ser-aprendida
 No começo da década de 90 eu trabalhava em uma empresa chamada TWR Informática. Lá, eu programava para o MT100, um microterminal para entrada de dados.
 
 O MT100 era um pequeno dispositivo com um teclado numérico e um display de 2 linhas de 16 caracteres, controlado por um processador Z80. O software que comandava este equipamento rodava em um computador PC, onde os terminais eram ligados através de sua interface paralela.
-[![z80](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/z80.jpg "")](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/z80.jpg "")
 
-O programa que controlava o que aparecia na tela dos microterminais e processava os inputs dos usuários, rodava de forma [residente](http://en.wikipedia.org/wiki/Terminate_and_Stay_Resident "") no DOS. O programa era "acordado" de tempos em tempos por uma interrupção do sistema (minha memória não é suficientemente boa para lembrar qual interrupçãao usávamos), fazia o polling dos dispositivos e executava a lógica necessária.
+![z80](/assets/images/2013/z80.jpg){: .image_on_center}
+
+O programa que controlava o que aparecia na tela dos microterminais e processava os inputs dos usuários, rodava de forma [residente][residente]{:target="_blank"} no DOS. O programa era "acordado" de tempos em tempos por uma interrupção do sistema (minha memória não é suficientemente boa para lembrar qual interrupçãao usávamos), fazia o polling dos dispositivos e executava a lógica necessária.
 
 Depois de algumas versões, resolvemos enfrentar o desafio de fazer com que os programas do MT100 fizessem acesso a arquivos de dados. Nossa primeira abordagem foi criar um formato proprietário para armazenar os dados necessários, mas rapidamente nos deparamos com o problema de que precisaríamos criar arquivos de índices para acesso mais eficiente aos dados.
 
 Rildo Pragana, conhecido por ter criado o Corisco (o legítimo computador pernambucano), era nosso líder técnico. Um belo dia, Rildo trouxe um disquete com uma biblioteca que implementava a estrutura B-Tree, escolha lógica para implementar a solução dos índices. No dia seguinte ele viajou, deixando essa nobre tarefa para a sua jovem equipe.
 
-[![corisco](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/corisco-295x300.gif "")](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/corisco.gif "")
+![corisco](/assets/images/2013/corisco.jpg){: .image_on_center}
 
 Começamos a tentar colocar a biblioteca para funcionar, mas por mais tentássemos, o bagulho não funcionava. Depois de quebrar a cabeça por um bom tempo chegamos a conclusão que a biblioteca estava irremediavelmente bugada. Como o uso desta biblioteca se provou ser um beco sem saída, passamos para o plano b, vamos escrever nossa própria implementação de B-Tree.
 
@@ -40,6 +41,8 @@ No dia seguinte, ainda confusos com o acontecido, esperamos a chegada de Rildo p
 
 Como é? Um bug no C? Ele corrigiu? Como esse gênio filho de uma puta conseguiu descobrir?
 
-[![velho oeste](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/once-upon-a-time-in-the-west1-1024x805.jpg "")](http://borba.blog.br/wordpress/wp-content/uploads/2013/11/once-upon-a-time-in-the-west1.jpg "")
+![velho oeste](/assets/images/2013/once-upon-a-time-in-west.jpg){: .image_on_center}
 
 Deste episódio, tirei várias lições, mas quero falar sobre uma lição que não deve ser aprendida. Não estamos mais nos tempos do velho oeste. Nossos sistemas operacionais, nossos compiladores, nossas bibliotecas, nossas ferramentas estão muito mais maduras e estáveis do que naquele tempo. A quantidade de desenvolvedores que usam essas tecnologias se multiplicou, criando massa crítica para que essas bibliotecas atinjam a maturidade mais rapidamente. Se você se deparar hoje em dia com um bug fantasmagórico o mais provável é que o erro seja realmente seu. Culpar o compilador, a biblioteca ou o sistema operacional só faz você perder tempo e se distanciar da solução.
+
+[residente]: http://en.wikipedia.org/wiki/Terminate_and_Stay_Resident
