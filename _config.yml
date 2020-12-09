@@ -30,6 +30,3 @@ plugins:
   - jekyll-feed
   - github-pages
   - jekyll-target-blank
-
-target-blank:
-   noreferrer: false
