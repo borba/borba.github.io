@@ -1,31 +1,21 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Two Cents
-author: Luiz Borba # TODO talvez não seja necessário
 name: Luiz Borba
-#email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Blogging about programming, microservices and clojure ❤️
+description: >-
+  Blogging about programming, microservices and clojure❤️
 keywords: [luiz borba blog clojure programming computer tech]
-baseurl: ""
-url: ""
+#baseurl: ""
+#url: ""
 domain: 'borba.blog.br'
 twitter_username: luizborba
 github_username:  borba
 language: en
 
-# Build settings
-#theme: minima # TODO
 comments: false
 discus: 
 mathjax: false
 diagram: true
 
-paginate: 2
+paginate: 10
 paginate_path: '/page:num/'
 
 permalink: /:year/:month/:day/:title
@@ -37,25 +27,5 @@ sass:
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed # TODO ???
+  - jekyll-feed
   - github-pages
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
