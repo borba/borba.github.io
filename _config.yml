@@ -29,4 +29,3 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - github-pages
-  - jekyll-target-blank
